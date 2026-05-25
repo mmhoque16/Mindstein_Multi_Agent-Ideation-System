@@ -1,5 +1,7 @@
 # 🧠 Multi-Agent Business Ideation System
 
+![Project Preview](download.jpg)
+
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Framework](https://img.shields.io/badge/framework-CrewAI%20%7C%20LangChain-green)
 ![Status](https://img.shields.io/badge/status-active-success)
